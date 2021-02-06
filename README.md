@@ -1,12 +1,12 @@
 # DataMining
 This is a repository for CS4168 Data Mining. The structure of this module is broken up into 5 seperate 'etivity' (online activity).
 
-## Etivity 1 Exploratory Data Analysis
+## Etivity 1: Exploratory Data Analysis
 
-## Data Preparation
+## Etivity 2: Data Preparation
 
-## Clustering and Manifold Learning
+## Etivity 3: Clustering and Manifold Learning
 
-## Classification
+## Etivity 4: Classification
 
-## Regression and Dimensionality Reduction
+## Etivity 5: Regression and Dimensionality Reduction
